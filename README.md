@@ -1,7 +1,7 @@
 # ECM-HACKERS #17
 <p>
   <strong>
-   This is the repo for all code discussion/solutions for the ECM HACKERS #17 Google+ community
+    This is the repo for all the <em>codes</em> of discussion/solutions for the ECM HACKERS #17 Google+ community
   </strong>
     </p><br>
 <h2>The link to the community :<br></h2>
