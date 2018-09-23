@@ -1,0 +1,7 @@
+HACKEREARTH PROBLEM 
+
+DIVIDE APPLES
+
+TAG - HEAP SORT , SORTING 
+
+URL = https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/divide-apples/description/
