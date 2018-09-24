@@ -2,6 +2,6 @@ HACKEREARTH PROBLEM
 
 DIVIDE APPLES
 
-TAG - HEAP SORT , SORTING 
+TAG - HEAP SORT , SORTING , MATH
 
 URL = https://www.hackerearth.com/practice/algorithms/sorting/heap-sort/practice-problems/algorithm/divide-apples/description/
