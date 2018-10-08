@@ -1,0 +1,3 @@
+ANTI-BLOT-SYSTEM
+
+https://www.spoj.com/problems/ABSYS/
