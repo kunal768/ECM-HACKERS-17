@@ -1,0 +1,5 @@
+Prime Generator
+
+Url : https://www.spoj.com/problems/PRIME1/
+
+Tags : Easy
