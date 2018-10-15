@@ -1,8 +1,6 @@
 #include <iostream>
 using namespace std;
 #include<math.h>
-#include <iostream>  
-using namespace std;  
 int isPrime(int n)  
 {  
   int i, flag=0;    
