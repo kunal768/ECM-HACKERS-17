@@ -2,4 +2,4 @@
 which I used earlier and it gave me MemoryError<br></h2>
 Problem : Cycle Detection <br>
 URL : https://www.hackerrank.com/challenges/detect-whether-a-linked-list-contains-a-cycle/problem<br>
-Tags : Easy , Data-Structures, LinkedLists
+Tags : Medium , Data-Structures, LinkedLists
